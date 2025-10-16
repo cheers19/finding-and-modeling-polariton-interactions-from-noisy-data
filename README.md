@@ -7,7 +7,7 @@ In this work, I **measured and validated the presence of polaritons entangled wi
 The experimental setup utilized a $2\text{D}$ detector (camera) to capture the photon events:
 
 * **Detector Output:** Raw data is composed of a large number of **$512\text{x}512$ pixel images**.
-* **Scanning Procedure:** For each specific **photon energy ($\text{E}$)**, we performed an **angular scan** of the photon beam, resulting in a unique image for every angle ($\theta$).
+* **Scanning Procedure:** For each specific **photon energy ($\text{E}$)**, I performed an **angular scan** of the photon beam, resulting in a unique image for every angle ($\theta$).
 
 This multi-dimensional data structure is conceptually depicted in Fig. 1:
 
@@ -24,7 +24,7 @@ This multi-dimensional data structure is conceptually depicted in Fig. 1:
 
 ## Signal Extraction Methodology
 
-To extract the angular curve (the core quantum signature) for each energy, we implemented the following signal processing protocol (see `yyy`):
+To extract the angular curve (the core quantum signature) for each energy, I implemented the following signal processing protocol (see `Data Analysis Demo`):
 
 1.  **Region Definition:** In each image, we define two critical rectangular regions:
     * **Signal Region:** A rectangle assigned around the **focus spot** (see red rectangle in Fig. 2).
@@ -50,4 +50,4 @@ To extract the angular curve (the core quantum signature) for each energy, we im
 
 ## Theoretical Validation
 
-A theoretical simulation was then developed to validate and explain the results (**See `xxx` for the theoretical documentation and code**).
+A theoretical simulation was then developed to validate and explain the results (**See `Theoretical Analysis` for the theoretical documentation and code**).
