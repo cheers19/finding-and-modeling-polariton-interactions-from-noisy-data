@@ -13,7 +13,7 @@ This multi-dimensional data structure is conceptually depicted in Fig. 1:
 
 <div align="center">
   <img 
-    width="500" 
+    width="700" 
     src="https://github.com/user-attachments/assets/88a6edad-0917-40cd-8223-943f6e11c96e" 
     alt="data" 
     style="display: block; margin: 0 auto; max-width: 100%; height: auto;"
@@ -38,7 +38,7 @@ To extract the angular curve (the core quantum signature) for each energy, we im
 
 <div align="center">
   <img 
-    width="500" 
+    width="700" 
     src="https://github.com/user-attachments/assets/6911d7f7-38ce-43e4-9b3c-4f149135098f" 
     alt="the procedure" 
     style="display: block; margin: 0 auto; max-width: 100%; height: auto;"
